@@ -34,10 +34,10 @@ My journey in cybersecurity has led me to develop a deep passion for this field,
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### Digital Forensic Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autposy-00A4EF?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OSForensics-4B275F?&style=for-the-badge&logo=OSForensics&logoColor=white" />
 </div>
 
 ### SIEM
