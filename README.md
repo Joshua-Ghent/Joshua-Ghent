@@ -17,7 +17,7 @@ My journey in cybersecurity has led me to develop a deep passion for this field,
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Buffer Overflow Exploitation Techniques       | <a href="https://github.com/Joshua-Ghent/Buffer-Overflow-Lab">Buffer Overflow Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -53,5 +53,5 @@ My journey in cybersecurity has led me to develop a deep passion for this field,
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/Joshua-Ghent/Buffer-Overflow-Lab">Buffer Overflow Lab</a>
 - SOC Automation Project
