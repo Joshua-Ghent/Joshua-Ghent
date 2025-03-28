@@ -18,7 +18,7 @@ My journey in cybersecurity has led me to develop a deep passion for this field,
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Buffer Overflow Exploitation Techniques       | <a href="https://github.com/Joshua-Ghent/Buffer-Overflow-Lab">Buffer Overflow Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SQL Injection & Web Exploitation              | <a href="Web Application Exploitation and SQL Injection Analysis">SQL Injection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -54,4 +54,4 @@ My journey in cybersecurity has led me to develop a deep passion for this field,
 
 ## Projects
 - <a href="https://github.com/Joshua-Ghent/Buffer-Overflow-Lab">Buffer Overflow Lab</a>
-- SOC Automation Project
+- <a href="Web Application Exploitation and SQL Injection Analysis">SQL Injection Lab</a>
