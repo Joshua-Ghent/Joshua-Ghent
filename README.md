@@ -9,11 +9,11 @@ I am an enthusiastic cybersecurity student seeking job opportunities that will a
 ## Objective
 
 
-My journey in cybersecurity has led me to develop a deep passion for this field, and I am specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst
+Aspiring cybersecurity professional and senior student with hands-on experience in threat analysis, network defense, and web application security. Seeking to apply my skills in Security Operations Center (SOC) environments with a focus on intrusion detection, log analysis, and incident response. Passionate about continuous learning and contributing to proactive threat hunting and cyber defense efforts.
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
