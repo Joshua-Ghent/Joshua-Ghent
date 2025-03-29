@@ -19,7 +19,7 @@ Aspiring cybersecurity professional and senior student with hands-on experience 
 |-----------------------------------------------|----------------------------|
 | Buffer Overflow Exploitation Techniques       | <a href="https://github.com/Joshua-Ghent/Buffer-Overflow-Lab">Buffer Overflow Lab</a>|
 | SQL Injection & Web Exploitation              | <a href="https://github.com/Joshua-Ghent/Mutilidae-DVWA-Web-Vulnerabilities-Lab">SQL Injection Lab</a>|
-| Firewall Penetration Testing & Hardening      | <a href="https://github.com/Test-MyDFIR/Detection-Lab/blob/main/README.md?plain=1">Pen Test pfSense Firewall</a>|
+| Firewall Penetration Testing & Hardening      | <a href="https://github.com/Joshua-Ghent/Penetration-Testing-a-pfSense-Firewall-">Pen Test pfSense Firewall</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -55,4 +55,4 @@ Aspiring cybersecurity professional and senior student with hands-on experience 
 ## Projects
 - <a href="https://github.com/Joshua-Ghent/Buffer-Overflow-Lab">Buffer Overflow Lab</a>
 - <a href="https://github.com/Joshua-Ghent/Mutilidae-DVWA-Web-Vulnerabilities-Lab">SQL Injection Lab</a>
-- <a href="https://github.com/Test-MyDFIR/Detection-Lab/blob/main/README.md?plain=1">Pen Test pfSense Firewall</a>
+- <a href="https://github.com/Joshua-Ghent/Penetration-Testing-a-pfSense-Firewall-">Pen Test pfSense Firewall</a>
