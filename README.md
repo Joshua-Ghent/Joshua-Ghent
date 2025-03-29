@@ -17,7 +17,7 @@ Aspiring cybersecurity professional and senior student with hands-on experience 
 | SQL Injection & Web Exploitation              | <a href="https://github.com/Joshua-Ghent/Mutilidae-DVWA-Web-Vulnerabilities-Lab">SQL Injection Lab</a>|
 | Firewall Penetration Testing & Hardening      | <a href="https://github.com/Joshua-Ghent/Penetration-Testing-a-pfSense-Firewall-">Pen Test pfSense Firewall</a>|
 | Memory Forensics & Malware Detection          | <a href="https://github.com/Joshua-Ghent/Memory-Forensics-Malware-Detection">Memory Forensics & Malware Detection</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Social Engineering & OSINT Tactics            | <a href="https://github.com/Joshua-Ghent/Social-Engineering-OSINT-Tactics/blob/main/README.md">Social Engineering & OSINT Tactics</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
@@ -53,3 +53,4 @@ Aspiring cybersecurity professional and senior student with hands-on experience 
 - <a href="https://github.com/Joshua-Ghent/Mutilidae-DVWA-Web-Vulnerabilities-Lab">SQL Injection Lab</a>
 - <a href="https://github.com/Joshua-Ghent/Penetration-Testing-a-pfSense-Firewall-">Pen Test pfSense Firewall</a>
 - <a href="https://github.com/Joshua-Ghent/Memory-Forensics-Malware-Detection">Memory Forensics & Malware Detection</a>
+- <a href="https://github.com/Joshua-Ghent/Social-Engineering-OSINT-Tactics/blob/main/README.md">Social Engineering & OSINT Tactics</a>
