@@ -2,10 +2,6 @@
 # Hello, I'm Josh
 <a href="https://linkedin.com/in/joshuaghent/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-
-I am an enthusiastic cybersecurity student seeking job opportunities that will allow me to contribute and develop my leadership and interpersonal skills in a collaborative setting at a company that encourages creativity, problem solving, and teamwork.
-
 ## Objective
 
 
