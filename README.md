@@ -21,7 +21,7 @@ Aspiring cybersecurity professional and senior student with hands-on experience 
 | VPN Exploitation & Social Engineering         | <a href="https://github.com/Joshua-Ghent/VPN-Exploitation-Social-Engineering/blob/main/README.md">VPN Exploitation & Social Engineering</a>|
 | Virtual Machine Setup & Linux Fundamentals    | <a href="https://github.com/Joshua-Ghent/Virtual-Machine-Setup-Linux-Fundamentals">VM Setup and Linux Fundamentals</a>|
 | OSINT & Information Discovery                 | <a href="https://github.com/Joshua-Ghent/OSINT-Information-Discovery/blob/main/README.md">OSINT & Information Discovery</a>|
-| Firewall Penetration Testing & Hardening      | <a href="https://github.com/Joshua-Ghent/Penetration-Testing-a-pfSense-Firewall-">Pen Test pfSense Firewall</a>|
+| Linux Scripting & Automation                  | <a href="https://github.com/Joshua-Ghent/Linux-Scripting-Automation/tree/main">Linux Scripting & Automation</a>|
 
 ## Tools
 
@@ -60,3 +60,4 @@ Aspiring cybersecurity professional and senior student with hands-on experience 
 - <a href="https://github.com/Joshua-Ghent/VPN-Exploitation-Social-Engineering/blob/main/README.md">VPN Exploitation & Social Engineering</a>
 - <a href="https://github.com/Joshua-Ghent/Virtual-Machine-Setup-Linux-Fundamentals">VM Setup and Linux Fundamentals</a>
 - <a href="https://github.com/Joshua-Ghent/OSINT-Information-Discovery/blob/main/README.md">OSINT & Information Discovery</a>
+- <a href="https://github.com/Joshua-Ghent/Linux-Scripting-Automation/tree/main">Linux Scripting & Automation</a>
