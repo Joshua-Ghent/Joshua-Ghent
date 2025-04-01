@@ -20,7 +20,7 @@ Aspiring cybersecurity professional and senior student with hands-on experience 
 | Social Engineering & OSINT Tactics            | <a href="https://github.com/Joshua-Ghent/Social-Engineering-OSINT-Tactics/blob/main/README.md">Social Engineering & OSINT Tactics</a>|
 | VPN Exploitation & Social Engineering         | <a href="https://github.com/Joshua-Ghent/VPN-Exploitation-Social-Engineering/blob/main/README.md">VPN Exploitation & Social Engineering</a>|
 | Virtual Machine Setup & Linux Fundamentals    | <a href="https://github.com/Joshua-Ghent/Virtual-Machine-Setup-Linux-Fundamentals">VM Setup and Linux Fundamentals</a>|
-| SQL Injection & Web Exploitation              | <a href="https://github.com/Joshua-Ghent/Mutilidae-DVWA-Web-Vulnerabilities-Lab">SQL Injection Lab</a>|
+| OSINT & Information Discovery                 | <a href="https://github.com/Joshua-Ghent/OSINT-Information-Discovery/blob/main/README.md">OSINT & Information Discovery</a>|
 | Firewall Penetration Testing & Hardening      | <a href="https://github.com/Joshua-Ghent/Penetration-Testing-a-pfSense-Firewall-">Pen Test pfSense Firewall</a>|
 
 ## Tools
@@ -59,3 +59,4 @@ Aspiring cybersecurity professional and senior student with hands-on experience 
 - <a href="https://github.com/Joshua-Ghent/Social-Engineering-OSINT-Tactics/blob/main/README.md">Social Engineering & OSINT Tactics</a>
 - <a href="https://github.com/Joshua-Ghent/VPN-Exploitation-Social-Engineering/blob/main/README.md">VPN Exploitation & Social Engineering</a>
 - <a href="https://github.com/Joshua-Ghent/Virtual-Machine-Setup-Linux-Fundamentals">VM Setup and Linux Fundamentals</a>
+- <a href="https://github.com/Joshua-Ghent/OSINT-Information-Discovery/blob/main/README.md">OSINT & Information Discovery</a>
