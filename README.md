@@ -64,3 +64,5 @@ Aspiring cybersecurity professional and senior student with hands-on experience 
 - <a href="https://github.com/Joshua-Ghent/Virtual-Machine-Setup-Linux-Fundamentals">VM Setup and Linux Fundamentals</a>
 - <a href="https://github.com/Joshua-Ghent/OSINT-Information-Discovery/blob/main/README.md">OSINT & Information Discovery</a>
 - <a href="https://github.com/Joshua-Ghent/Linux-Scripting-Automation/tree/main">Linux Scripting & Automation</a>
+- <a href="https://github.com/Joshua-Ghent/redteam-lab-environment">Redteam Lab Environment</a>
+- <a href="https://github.com/Joshua-Ghent/pivoting-with-relays">Pivoting with Relays</a>
