@@ -24,6 +24,8 @@ Aspiring cybersecurity professional and senior student with hands-on experience 
 | Linux Scripting & Automation                  | <a href="https://github.com/Joshua-Ghent/Linux-Scripting-Automation/tree/main">Linux Scripting & Automation</a>|
 | Redteam Lab Environment                       | <a href="https://github.com/Joshua-Ghent/redteam-lab-environment">Redteam Lab Environment</a>|
 | Pivoting with Relays                          | <a href="https://github.com/Joshua-Ghent/pivoting-with-relays">Pivoting with Relays</a>|
+| Dark Web Project                              | <a href="https://https://github.com/Joshua-Ghent/Dark-Web-Project/blob/main/README.md">Dark Web Project</a>|
+
 
 
 ## Tools
