@@ -1,6 +1,8 @@
 
 # Hello, I'm Josh
 <a href="https://linkedin.com/in/joshuaghent/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://utsa.joinhandshake.com/profiles/h8sc77/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 ## Objective
 
