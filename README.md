@@ -27,7 +27,7 @@ Aspiring cybersecurity professional and senior student with hands-on experience 
 | Redteam Lab Environment                       | <a href="https://github.com/Joshua-Ghent/redteam-lab-environment">Redteam Lab Environment</a>|
 | Pivoting with Relays                          | <a href="https://github.com/Joshua-Ghent/pivoting-with-relays">Pivoting with Relays</a>|
 | Dark Web Project                              | <a href="https://github.com/Joshua-Ghent/Dark-Web-Project/blob/main/README.md">Dark Web Project</a>|
-| Triage, Enumeration, and Exploitation         | <a href="https://github.com/Joshua-Ghent/Dark-Web-Project/blob/main/README.md">Triage, Enumeration, and Exploitation Lab</a>|
+| Triage, Enumeration, and Exploitation         | <a href="https://github.com/Joshua-Ghent/Triage-Enumeration-and-Exploitation-Lab">Triage, Enumeration, and Exploitation Lab</a>|
 
 
 
